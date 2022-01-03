@@ -1,0 +1,15 @@
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\bin\Debug\net5.0\DomainLayer.deps.json
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\bin\Debug\net5.0\DomainLayer.runtimeconfig.json
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\bin\Debug\net5.0\DomainLayer.runtimeconfig.dev.json
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\bin\Debug\net5.0\DomainLayer.dll
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\bin\Debug\net5.0\ref\DomainLayer.dll
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\bin\Debug\net5.0\DomainLayer.pdb
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.AssemblyReference.cache
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\obj\Debug\net5.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfoInputs.cache
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfo.cs
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\obj\Debug\net5.0\DomainLayer.dll
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\obj\Debug\net5.0\ref\DomainLayer.dll
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\obj\Debug\net5.0\DomainLayer.pdb
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\DomainLayer\obj\Debug\net5.0\DomainLayer.genruntimeconfig.cache

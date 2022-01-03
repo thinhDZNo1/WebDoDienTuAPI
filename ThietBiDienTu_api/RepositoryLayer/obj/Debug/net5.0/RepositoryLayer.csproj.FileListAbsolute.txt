@@ -1,0 +1,17 @@
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.deps.json
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.dll
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\bin\Debug\net5.0\ref\RepositoryLayer.dll
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.pdb
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\bin\Debug\net5.0\DomainLayer.dll
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\bin\Debug\net5.0\DTOLayer.dll
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\bin\Debug\net5.0\DomainLayer.pdb
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\bin\Debug\net5.0\DTOLayer.pdb
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.AssemblyInfo.cs
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.dll
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\obj\Debug\net5.0\ref\RepositoryLayer.dll
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.pdb
+D:\ThucHanh+BTL\NetAPI\ThietBiDienTuAPI\ThietBiDienTu_api\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.csproj.CopyComplete
